@@ -181,7 +181,7 @@ header .search-bar-container label:hover{
   flex-flow: column;
   position: relative;
   z-index: 0;
-  background:url("/img/bg-main.jpg") center/cover;
+  background:url("img/bg-main.jpg") center/cover;
 }
 
 .home .content{
@@ -428,7 +428,7 @@ section .box-container .box .content p{
 
 /* contact */
 .contact{
-    background: url("/img/Mobile-Tech.jpg") center/cover no-repeat;
+    background: url("img/Mobile-Tech.jpg") center/cover no-repeat;
 }
 .contact .heading span{
     color: #fff;
