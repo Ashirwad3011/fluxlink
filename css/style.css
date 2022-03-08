@@ -181,8 +181,9 @@ header .search-bar-container label:hover{
   flex-flow: column;
   position: relative;
   z-index: 0;
-  background:url("img/bg-main.jpg") center/cover;
+  background:linear-gradient(135deg, #71b7e6, #9b59b6),url("/img/bg-main.jpg") center/cover;
 }
+
 
 .home .content{
   text-align: center;
